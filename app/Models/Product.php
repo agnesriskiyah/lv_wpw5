@@ -12,5 +12,7 @@ class Product extends Model
         'sku',
         'price',
         'stock',
+        'description',
+        'image',
     ];
 }
